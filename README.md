@@ -22,7 +22,9 @@ evangelion-thfs-tools/
 ├── LICENSE                      # Licença do projeto (MIT)
 
 └── README.md                    # Este arquivo
+
 🚀 Como usar
+
 📦 1. Extração de arquivos .THFS
 Coloque seu arquivo .THFS (ex: SCRIPT.THFS) na raiz do projeto.
 
