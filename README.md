@@ -4,14 +4,23 @@ Ferramentas de extração e análise de arquivos .THFS do jogo Neon Genesis Evan
 Este projeto visa criar scripts em Python para realizar engenharia reversa, extração e tratamento de arquivos contidos nos pacotes .THFS, usados para armazenar textos, imagens e outros dados do jogo.
 
 📁 Estrutura Atual do Projeto
+
 evangelion-thfs-tools/
+
 ├── exemplos de arquivos/        # Exemplos de arquivos .THFS, .gim etc
+
 ├── scripts python/              # Scripts de extração, análise e conversão
+
 │   ├── extrator_thfs.py         # Script principal para extrair arquivos .THFS
+
 │   ├── converter.py             # Conversor de arquivos .GIM usando gimconv.exe
+
 │   ├── codigov4.py              # Versões anteriores ou de teste
+
 │   └── outros scripts...        # Scripts auxiliares
+
 ├── LICENSE                      # Licença do projeto (MIT)
+
 └── README.md                    # Este arquivo
 🚀 Como usar
 📦 1. Extração de arquivos .THFS
